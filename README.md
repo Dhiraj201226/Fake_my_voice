@@ -1,2 +1,11 @@
 # Fake_my_voice
-repo for fake my voice project members
+
+## Mentors
+- Kevin Shah
+- Yash Ogale
+- Prasanna Kasar
+
+## Contributors
+- Dhiraj Shirse
+- Aryan Doshi
+- Nihira Neralwar
